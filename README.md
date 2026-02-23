@@ -13,16 +13,24 @@
 
 ## 🛠️ Skills & Tools
 
-**Languages & Querying**
+**Programming Languages & Analysis Tools**
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![Pascal](https://img.shields.io/badge/Pascal-E32219?style=for-the-badge&logo=delphi&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Pivot%20Tables-green?logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Minitab](https://img.shields.io/badge/Minitab-003C71?style=for-the-badge&logo=minitab&logoColor=white)
+![SPSS](https://img.shields.io/badge/IBM%20SPSS-0062FF?style=for-the-badge&logo=ibm&logoColor=white)
+![AMOS](https://img.shields.io/badge/IBM%20SPSS%20AMOS-0062FF?style=for-the-badge&logo=ibm&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white)
+
+**Databases Management System**
 
 ![SQL](https://img.shields.io/badge/SQL-Server-blue?logo=microsoftsqlserver&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-Advanced-blue?logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
-
-**Databases & Database Tools**
-
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![SSMS](https://img.shields.io/badge/SSMS-SQL%20Server%20Management%20Studio-red?logo=microsoftsqlserver&logoColor=white)
 ![Access](https://img.shields.io/badge/Microsoft%20Access-darkred?logo=microsoftaccess&logoColor=white)
 
@@ -30,14 +38,27 @@
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-blue?logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Pivot%20Tables-green?logo=microsoftexcel&logoColor=white)
+![Apache Superset](https://img.shields.io/badge/Apache%20Superset-EE6C4D?style=for-the-badge&logo=apache-superset&logoColor=white)
 
-**Tools & Environments**
+**Software Editors & Environments**
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue?logo=visualstudiocode&logoColor=white)
-![Draw.io](https://img.shields.io/badge/Draw.io-Diagrams-orange?logo=diagrams.net&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-black?logo=notion&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Marimo](https://img.shields.io/badge/Marimo-FFCC00?style=for-the-badge&logo=python&logoColor=black)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black?logo=github&logoColor=white)
+
+**Sketching Tools**  
+
+![Draw.io](https://img.shields.io/badge/Draw.io-Diagrams-orange?logo=diagrams.net&logoColor=white) 
+![Whimsical](https://img.shields.io/badge/Whimsical-291144?style=for-the-badge&logo=ghost&logoColor=white)
+![MindManager](https://img.shields.io/badge/MindManager-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+**Project Management and Communication**
+
+![Notion](https://img.shields.io/badge/Notion-black?logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white)
 
 ## 📂 Current Projects & Portfolio
 
@@ -49,10 +70,9 @@
 
 ## 🚀 Currently Leveling Up
 
-- 🐍 **Python** for data analysis and automation
-- 📊 **Power BI & Tableau** for interactive dashboards
-- 🧹 **Data cleaning & exploration** with SQL
-- 📋 **Excel** — Pivot Tables and advanced formulas
+- **Data Engineering in Azure and GCP** for building robust ETL Pipelines
+- **Japanese Language** for interactive dashboards
+
 
 ## 🤝 Connect with Me
 
@@ -62,7 +82,11 @@
 
 📚 Avid reader—always exploring new books
 
-🧩 Puzzle lover—enjoy solving challenges, brain teasers, and jigsaw puzzles
+♟️ Chess lover—maintain my strategic thinking
+
+⚽ Passionated Football lovers
+
+🍷 I’m a people person; I thrive on good conversation
 
 💡 Always curious—learning something new every day
 
