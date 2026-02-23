@@ -53,7 +53,7 @@
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/Connect-residata-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/residata)  
+[![LinkedIn](https://img.shields.io/badge/Connect-residata-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/residata)  or send me email at residata@gmail.com
 
 ## 🎯 Fun & Personal
 
