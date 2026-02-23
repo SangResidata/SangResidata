@@ -23,7 +23,7 @@
 ![Minitab](https://img.shields.io/badge/Minitab-003C71?style=for-the-badge&logo=minitab&logoColor=white)
 ![SPSS](https://img.shields.io/badge/IBM%20SPSS-0062FF?style=for-the-badge&logo=ibm&logoColor=white)
 ![AMOS](https://img.shields.io/badge/IBM%20SPSS%20AMOS-0062FF?style=for-the-badge&logo=ibm&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white)
+
 
 **Databases Management System**
 
