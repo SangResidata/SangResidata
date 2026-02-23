@@ -15,9 +15,7 @@
 
 **Programming Languages & Analysis Tools**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Pascal](https://img.shields.io/badge/Pascal-E32219?style=for-the-badge&logo=delphi&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)  ![Minitab](https://img.shields.io/badge/Minitab-003C71?style=for-the-badge&logo=minitab&logoColor=white)  ![SPSS](https://img.shields.io/badge/IBM%20SPSS-0062FF?style=for-the-badge&logo=ibm&logoColor=white)  ![AMOS](https://img.shields.io/badge/IBM%20SPSS%20AMOS-0062FF?style=for-the-badge&logo=ibm&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Pascal](https://img.shields.io/badge/Pascal-E32219?style=for-the-badge&logo=delphi&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)  ![Minitab](https://img.shields.io/badge/Minitab-003C71?style=for-the-badge&logo=minitab&logoColor=white)  ![SPSS](https://img.shields.io/badge/IBM%20SPSS-0062FF?style=for-the-badge&logo=ibm&logoColor=white)  ![AMOS](https://img.shields.io/badge/IBM%20SPSS%20AMOS-0062FF?style=for-the-badge&logo=ibm&logoColor=white)  
 
 
 **Databases Management System**
