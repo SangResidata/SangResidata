@@ -48,7 +48,7 @@
 ## 🚀 Currently Leveling Up
 
 - **Data Engineering in Azure and GCP** for building robust ETL Pipelines
-- **Japanese Language** for interactive dashboards
+- **Japanese Language** for better communication and learn their culture
 
 
 ## 🤝 Connect with Me
