@@ -9,7 +9,7 @@
 - ⚙️ My education background combined in Industrial Engineering and Applied Statistics.
 - 🛠️ I enjoy building real-world projects that reflect actual data workflows
 - 🌍 Based in **Jakarta** Indonesia.
-- 💡 I believe that domain knowledge + data skills is a powerful combination.
+- 💡 I believe that deep domain knowledge + data skills is a powerful combination to solve complex problems.
 
 ## 🛠️ Skills & Tools
 
