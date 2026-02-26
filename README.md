@@ -57,7 +57,7 @@
 
 ## 🎯 Fun & Personal
 
-📚 Avid reader—always exploring new books
+📚 Avid reader—books is just like drugs to me
 
 ♟️ Chess lover—maintain my strategic thinking
 
