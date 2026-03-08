@@ -43,7 +43,7 @@
 |--------|-------------|-------|
 | PharmaMarket_ETL | Full ETL pipeline extracting, cleaning and loading pharmaceutical data into a relational SQL Server database | SQL Server, T-SQL, BULK INSERT |
 
-*More projects coming soon!* 🚀
+*More projects coming soon!* 
 
 ## 🚀 Currently Leveling Up
 
