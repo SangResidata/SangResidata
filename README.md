@@ -68,4 +68,4 @@
 💡 Always curious—learning something new every day
 
 ---
-*"Every expert was once a beginner."* 🌱
+*"Time is our greatest enemy."* 
