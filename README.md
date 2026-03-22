@@ -48,6 +48,7 @@
 ## 🚀 Currently Leveling Up
 
 - **Data Engineering in Azure and GCP** for building robust ETL Pipelines
+- *N8N* for reducing repetitive task.
 - **Japanese Language** for better communication and learn their culture
 
 
