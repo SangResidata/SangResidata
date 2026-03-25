@@ -62,8 +62,6 @@
 
 ♟️ Chess lover—maintain my strategic thinking. 
 
-⚽ Passionated Football lovers. 
-
 🍷 I’m a people person; I thrive on good conversation. 
 
 💡 Always curious—learning something new every day. 
