@@ -1,4 +1,4 @@
-# Hi, I'm Wisang Residata.. 👋 
+# Hi, I'm Wisang Residata.. 
 
 ### Supply Chain Data Analyst | Strategic Industrial Statistician — turning domain knowledge into data insights
 
@@ -9,7 +9,7 @@
 - ⚙️ My education background combined in Industrial Engineering and Applied Statistics.
 - 🛠️ I loved to build real-world projects that reflect actual data workflows.
 - 🌍 I lived in **Jakarta** Indonesia.
-- 💡 I believe that deep domain knowledge + data skills is a powerful combination to solve complex problems.
+- 💡 I believe that deep domain knowledge understanding + data skills is a powerful combination to solve complex problems.
 
 ## 🛠️ Skills & Tools
 
