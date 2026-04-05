@@ -1,4 +1,4 @@
-# Hi, I'm Wisang Residata..
+bbug# Hi, I'm Wisang Residata..
 
 ### Supply Chain Data Analyst | Strategic Industrial Statistician — turning domain knowledge into data insights.
 
@@ -47,9 +47,9 @@
 
 ## 🚀 Currently Leveling Up
 
-- **Data Engineering in Azure and GCP** for building robust ETL Pipelines.
-- *N8N* for reducing repetitive task.
-- **Japanese Language** for better communication and learn their culture.
+- **Data Engineering in Azure and GCP** for building robust ETL Pipelines
+- *N8N* for reducing repetitive task
+- **Japanese Language** for better communication and learn their culture
 
 
 ## 🤝 Connect with Me
