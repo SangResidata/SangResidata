@@ -47,6 +47,7 @@ bbug# Hi, I'm Wisang Residata.. 👋
 
 ## 🚀 Currently Leveling Up
 
+- **Learn to apply Generative AI** for assisting more complex data  
 - **Data Engineering in Azure and GCP** for building robust ETL Pipelines
 - *N8N* for reducing repetitive task
 - **Japanese Language** for better communication and learn their culture
