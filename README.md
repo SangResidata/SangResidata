@@ -59,13 +59,13 @@
 
 ## 🎯 Fun & Personal
 
-📚 Avid reader—books is just like drugs to me. 
+📚 Avid reader—books is just like drugs to me 
 
-♟️ Chess lover—maintain my strategic thinking. 
+♟️ Chess lover—maintain my strategic thinking 
 
-🍷 I am a people person; I thrive on good conversation. 
+🍷 I am a people person; I thrive on good conversation 
 
-💡 Always curious—learning something new every day. 
+💡 Always curious—learning something new every day 
 
 ---
 *"Time is our greatest enemy"* 
