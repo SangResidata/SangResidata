@@ -59,9 +59,9 @@
 
 ## 🎯 Fun & Personal
 
-📚 Avid reader—books is just like drugs to me 
+📚 Avid reader—books is just like drugs to me. 
 
-♟️ Chess lover—maintain my strategic thinking 
+♟️ Chess lover—maintain my strategic thinking. 
 
 🍷 I am a people person; I thrive on good conversation 
 
