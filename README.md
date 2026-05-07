@@ -49,7 +49,7 @@
 
 - **Learn to apply Generative AI** for assisting more complex data.  
 - **Data Engineering in Azure and GCP** for building robust ETL Pipelines.
-- *N8N* for reducing repetitive task.
+- *N8N* for automation and reducing repetitive task.
 - **Japanese Language** for better communication and learn their culture.
 
 
