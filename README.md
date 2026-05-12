@@ -66,7 +66,7 @@
 
 ♟️ Chess lover—maintain my strategic thinking. 
 
-🍷 I am a people person; I thrive on good conversation. 
+🍷 I am a people person; I thrive on good engaging conversation. 
 
 💡 Always curious—learning something new every day. 
 
