@@ -1,12 +1,12 @@
-## Hi, I'm Wisang Residata.. 👋
+## Hi, I'm Wisang Residata.. 
 
 ### Supply Chain Data Analyst | Strategic Industrial Statistician — turning domain knowledge into data insights.
 
 ## 👩‍💻 About Me
 
-- I spent around 9+ years in **IT Industry** as Business Process Analyst and Technical Project Manager before discovering my passion for data.   
-- After refocus my career into data tech, now I have 8+ years experiences in **data analytics**, processing raw data into strategic Decison.   
-- My education background combined in Industrial Engineering and Applied Statistics.   
+- I spent around 9+ years in **IT Industry** as Business Process Analyst and Technical Project Manager before discovering my passion for data   
+- After refocus my career into data tech, now I have 8+ years experiences in **data analytics**, processing raw data into strategic Decison    
+- My education background combined in Industrial Engineering and Applied Statistics    
 - I loved to build real-world projects that reflect actual data workflows.
 - When off project, I loved to share my knowledge as Data Analytics mentor.
 - Based on **Jakarta** Indonesia.  
