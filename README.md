@@ -9,9 +9,9 @@
 - After refocus my career into data tech, now I have 8+ years experiences in **data analytics**, processing raw data into strategic Decison     
 - My education background combined in Industrial Engineering and Applied Statistics         
 - I loved to build real-world projects that reflect actual data workflows
-- I prioritize solution first , then we talk about tools.    
+- I prioritize solution first , then we talk about tools   
 - When off project, I loved to share my knowledge as Data Analytics mentor
-- I enjoy watching football and Badminton at my spare time. 
+- I enjoy watching football and Badminton at my spare time
 - Based on **Jakarta** Indonesia.   
 - I believe that deep domain knowledge understanding + data skills is a powerful combination to solve complex problems.    
 
