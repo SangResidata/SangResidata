@@ -55,7 +55,7 @@
 - **Learn to apply Generative AI** for assisting more complex data.  
 - **Data Engineering in Azure and GCP** for building robust ETL Pipelines.
 - *N8N* for automation and reducing repetitive task.
-- Exploring openclaw fora automation.
+- Exploring openclaw for automation.
 - Exploring vibecoding with kiro.
 - **Japanese Language** for better communication and learn their culture.
 
