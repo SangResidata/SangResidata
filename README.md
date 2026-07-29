@@ -56,7 +56,7 @@
 - **Data Engineering in Azure and GCP** for building robust ETL Pipelines.
 - *N8N* for automation and reducing repetitive task.
 - Exploring openclaw for automation.
-- **Japanese Language** for better communication and learn their culture.
+- **Japanese Language** for better communication and learn their culture
 
 
 ## 🤝 Connect with Me
