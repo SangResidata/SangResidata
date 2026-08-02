@@ -67,9 +67,9 @@
 
 Avid reader—books is just like drugs to me. 
 
-♟️ Chess lover—maintain my strategic thinking. 
+Chess lover—maintain my strategic thinking. 
 
-🍷 I am a people person; I thrive on good engaging conversation. 
+I am a people person; I thrive on good engaging conversation. 
 
 💡 Always curious—learning something new every day. 
 
