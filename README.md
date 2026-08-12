@@ -1,7 +1,7 @@
 ## Hi, My name is Wisang Residata... 
 
 
-### Supply Chain Data Analyst | Strategic Statistician — turning domain knowledge into data insights
+### Data Analyst | Strategic Statistician — turning domain knowledge into data insights
 
 ## 👩‍💻 About Me
 
