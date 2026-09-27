@@ -57,7 +57,7 @@
 - *N8N* for automation and reducing repetitive task.
 - Exploring openclaw for automation.
 - Chase SQL Principal certification.  
-- **Japanese Language** for better communication and learn their culture.
+- **Japanese Language** for better communications.
 
 
 ## 🤝 Connect with Me
