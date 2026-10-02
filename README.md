@@ -1,4 +1,4 @@
-untuk## Hi, My name is Wisang Residata.....👋🏻
+Hi, My name is Wisang Residata.....👋🏻
 
 
 ### Data Analyst | Strategic Statistician — turning domain knowledge into data insights
