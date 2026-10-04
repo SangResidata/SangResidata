@@ -5,8 +5,8 @@ Hi, My name is Wisang Residata..👋🏻
 
 ## 👩‍💻 About Me
 
-- I spent around 10+ years in various **IT Industries** as Business Process Analyst and Technical Project Manager before discovering my passion for data      
-- After refocus my career into data tech, now I have 8+ years experiences in **data analytics**, processing raw data into strategic Decision        
+- I spent around 10+ years in various **IT Industries** as Business Process Analyst and Technical Project Manager before discovering my passion for data.      
+- After refocus my career into data tech, now I have 8+ years experiences in **data analytics**, processing raw data into strategic Decision.        
 - My education background combined in Industrial Engineering and Applied Statistics.            
 - I loved to build real-world projects that reflect actual data workflows.   
 - I prioritize solution first , then we talk about tools.     
