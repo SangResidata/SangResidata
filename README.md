@@ -47,7 +47,7 @@ Hi, My name is Wisang Residata......
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| Supply Chain ETL | Full ETL pipeline extracting, cleaning and loading Supply Chain data into SQL Server database | SQL Server |
+| Supply Chain ETL | ETL pipeline extracting, cleaning and loading Supply Chain data into SQL Server database | SQL Server |
 
 *More projects coming soon.....* 
 
