@@ -13,7 +13,8 @@
 - When off project, I loved to share my knowledge as Data Analytics mentor.  
 - I enjoy watching football and Badminton at my spare times.  
 - I lived in **Jakarta**, Indonesia.    
-- I believe that deep domain knowledge understanding and data skills is a powerful combination to solve complex problems.  
+- I believe that deep domain knowledge understanding and data skills is a powerful combination to solve complex problems.
+- I believe education is the most elegant way to build civilization.
  
 
 ## 🛠️ Skills & Tools
